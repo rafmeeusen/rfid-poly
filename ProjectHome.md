@@ -1,0 +1,1 @@
+The goal of the project is to make an application running on a PC under both Windows XP and Linux which allows reading and/or writing many different types of RFID tags, and which supports multiple types of RFID reader devices.
